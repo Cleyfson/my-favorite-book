@@ -35,7 +35,6 @@ const Favorites = () => {
           </div>
         );
       })}
-      ;
     </div>
   ) : (
     <h2 className='favorites-title'>You don't have any favorites books yet</h2>
