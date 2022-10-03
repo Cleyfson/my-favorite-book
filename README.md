@@ -2,7 +2,7 @@
 
 ## About the project:
 
-It is a site that contains information about various books, with a dynamic and simplified interface. You can have access to specific information for each book such as the description of the book the author and much more. done by consuming a thid part API.
+It is a site that contains information about various books, with a dynamic and simplified interface. You can have access to specific information for each book such as it's description the author and much more. done by consuming a thid part API.
 
 ## Layout of the Application:
 
