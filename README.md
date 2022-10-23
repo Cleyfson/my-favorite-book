@@ -6,9 +6,9 @@ It is a site that contains information about various books, with a dynamic and s
 
 ## Layout of the Application:
 
-  <img alt="email" src="./assets/images/driver.png">
-  <img alt="email" src="./assets/images/driver1.png">
-  <img alt="email" src="./assets/images/driver2.png">
+  <img alt="email" src="./assets/images/bookstore.png">
+  <img alt="email" src="./assets/images/bookstore2.png">
+  <img alt="email" src="./assets/images/bookstore3.png">
 
 ### Pre requirements
 
