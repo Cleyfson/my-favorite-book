@@ -6,6 +6,10 @@ It is a site that contains information about various books, with a dynamic and s
 
 ## Layout of the Application:
 
+  <img alt="email" src=".assets/images/driver.png">
+  <img alt="email" src=".assets/images/driver1.png">
+  <img alt="email" src=".assets/images/driver2.png">
+
 ### Pre requirements
 
 #### Before start, you should need have installed in your computer those following tools:
